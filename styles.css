@@ -126,6 +126,11 @@ span {
   background-color: rgb(141, 141, 141);
   transition: background-color 1s;
 }
+.product button,
+.footer,
+form {
+  margin-bottom: 5px;
+}
 
 #our-products {
   display: flex;
